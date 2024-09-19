@@ -1,0 +1,32 @@
+* {
+    margin: auto;
+    background-color: gray;
+}
+.white {
+    background-color: white;
+    width: 130px;
+    padding: 5px;
+}
+.red {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkred;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.yellow {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border: 10px solid #dfd20d;
+    padding: 5px;
+}
+.green {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border: 10px solid darkgreen;
+    margin-top: 5px;
+    padding: 5px;
+}
