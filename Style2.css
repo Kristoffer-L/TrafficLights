@@ -1,26 +1,29 @@
 * {
-    margin: auto;
+    margin: 0;
+    padding: 0;
+}
+body {
     background-color: gray;
 }
 .white {
+    margin: auto;
     background-color: white;
-    width: 130px;
+    width: 120px;
     padding: 5px;
 }
 .red {
-    background-color: red;
+    background: linear-gradient(red 50%,pink 50%);
     height: 100px;
     width: 100px;
     border: 10px solid darkred;
-    padding: 5px;
     margin-bottom: 5px;
+''
 }
 .yellow {
     background-color: yellow;
     height: 100px;
     width: 100px;
     border: 10px solid #dfd20d;
-    padding: 5px;
 }
 .green {
     background-color: green;
@@ -28,8 +31,16 @@
     width: 100px;
     border: 10px solid darkgreen;
     margin-top: 5px;
-    padding: 5px;
 }
-.red-lower {
-    background-color: lightcoral;
+.yellow-box {
+    background-color: rgb(255, 255, 198);
+    width: 50px;
+    height: 50px;
+    margin: 50px 0 0 50px
+}
+.green-box {
+    background-color: lightgreen;
+    width: 50px;
+    height: 50px;
+    margin: 50px 50px 0 0;
 }
