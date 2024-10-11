@@ -8,7 +8,7 @@
     padding: 5px;
 }
 .red {
-    background-color: red;
+    background-color: green;
     height: 100px;
     width: 100px;
     border: 10px solid darkred;
@@ -16,7 +16,7 @@
     margin-bottom: 5px;
 }
 .yellow {
-    background-color: yellow;
+    background-color: green;
     height: 100px;
     width: 100px;
     border: 10px solid #dfd20d;
@@ -30,6 +30,11 @@
     margin-top: 5px;
     padding: 5px;
 }
+<<<<<<< HEAD
 .yellow {
     padding: 20px;
+=======
+.green {
+    padding: 5;
+>>>>>>> dev
 }
